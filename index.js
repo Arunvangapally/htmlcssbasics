@@ -15,7 +15,7 @@ var a=9;
  function square(num1, num2){
   console.log("S")
  }
-// console.log(multiply()); //60
+console.log(multiply()); //60
 
 //block scope
 function getScore(){
