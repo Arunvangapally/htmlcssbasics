@@ -17,4 +17,22 @@
   width: 300px;
   padding: 20px;
   border: 3px solid red;
-  margin: 25px;}
+  margin: 25px;
+}
+
+.wrapper{
+  background-color: lime;
+}
+
+.box1, .box2{
+  height: 100px;
+  width: 100px;
+}
+.box1{
+  margin: 10px;
+  background-color: yellow;
+}
+.box2{
+  padding: 10px;
+  background-color: orange;
+}
